@@ -1,0 +1,32 @@
+body {
+  background-color: #F5F5F5;
+}
+
+h1 {
+  color: #30475E;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  color: #30475E;
+  font-family: 'Roboto', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: #F05454;
+  border-width: 10px;
+}
+
+table {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+.self {
+  height: 250px;
+  width: auto;
+  border-radius: 100%;
+}
